@@ -1,0 +1,1 @@
+The current project aims to build a basic repice website usign html. My html habilities such as creating basic html files, writing paragraphs and titles on them, using links and images, should be well demonstrated once I finish it. 
